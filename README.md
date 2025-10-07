@@ -10,3 +10,10 @@ A hybrid movie recommendation system built with Machine Learning and Streamlit.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+
+## Output / Demo
+
+Here’s how the Smart Movie Recommender looks when running:
+
+![Movie Recommender Screenshot](Screenshot 2025-10-08 at 12.42.27 AM.png)
